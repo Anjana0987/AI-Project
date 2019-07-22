@@ -2,7 +2,6 @@ library("tidytext")
 library("dplyr")
 library("ggplot2")
 data("stop_words")
-stopwords('sad')
 library(wordcloud)
 library("rlist")
 
